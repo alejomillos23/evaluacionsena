@@ -1,3 +1,7 @@
+print("=================================")
+print("SISTEMA DE PRESTAMO DE LIBROS")
+print("=================================")
+
 # Sistema de préstamo de libros de una biblioteca
 nombre_usuario = input("Ingrese el nombre del usuario: ")
-nombre_libro = input("Ingrese el nombre del libro: ")
+nombre_libro = input("Nombre del libro que desea prestar: ")
